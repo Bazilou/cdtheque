@@ -1,0 +1,69 @@
+body {
+    background-color: #FAF0E6;
+}
+
+hr.style18 {
+  height: 30px;
+  border-style: solid;
+  border-color: #8c8b8b;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+hr.style18:before {
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: #8c8b8b;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}
+
+.title {
+    background-color: grey;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 40px;
+}
+
+#divAddCd {
+    background-color: grey;
+    margin-top : 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#divAddCat {
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.cdHead {
+    background-color: silver;
+    padding : 10px;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+.ajoutCD{
+	background-color: #ccc;
+	padding: 20px;
+}
+
+.listCat{
+	background-color: #ccc;
+	padding: 20px;
+}

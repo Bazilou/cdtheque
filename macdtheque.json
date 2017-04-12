@@ -1,0 +1,42 @@
+{
+    "listCD":[
+        {
+            "idCd" : 1,
+            "titre" : "Thriller",
+            "listCat" : [
+                {   "idCat" : 1,
+                    "nom" : "pop" }
+            ]
+        },
+        {
+            "idCd" : 2,
+            "titre" : "8e ciel",
+            "listCat" : [
+                {   "idCat" : 2,
+                    "nom" : "Variété" }
+            ]
+        },
+        {
+            "idCd" : 3,
+            "titre" : "Adore",
+            "listCat" : [
+                {   "idCat" : 3,
+                    "nom" : "Rock" }
+            ]
+        }
+    ],
+    "listCat":[
+        {
+            "idCat" : 1,
+            "nom" : "pop"
+        },
+        {
+            "idCat" : 2,
+            "nom" : "Variété"
+        },
+        {
+            "idCat" : 3,
+            "nom" : "Rock"
+        }
+    ]
+}
